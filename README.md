@@ -43,7 +43,7 @@ Simplicity est un **instrument de bord** pour les pratiquants avancés qui mesur
 
 |                Tableau de bord                |                Détail nutritionnel                |              Tendances               |               Calendrier                |
 | :-------------------------------------------: | :-----------------------------------------------: | :----------------------------------: | :-------------------------------------: |
-| ![Tableau de bord](screenshots/dashboard.png) | ![Détail nutritionnel](screenshots/nutrition.png) | ![Tendances](screenshots/trends.png) | ![Calendrier](screenshots/calendar.png) |
+| ![Tableau de bord](screenshots/dashboard.jpg) | ![Détail nutritionnel](screenshots/nutrition.jpg) | ![Tendances](screenshots/trends.jpg) | ![Calendrier](screenshots/calendar.jpg) |
 
 ### Téléchargement
 
@@ -130,7 +130,7 @@ Simplicity is a **dashboard instrument** for advanced trainees who already measu
 
 |                Dashboard                |                Nutrition details                |              Trends               |               Calendar                |
 | :-------------------------------------: | :---------------------------------------------: | :-------------------------------: | :-----------------------------------: |
-| ![Dashboard](screenshots/dashboard.png) | ![Nutrition details](screenshots/nutrition.png) | ![Trends](screenshots/trends.png) | ![Calendar](screenshots/calendar.png) |
+| ![Dashboard](screenshots/dashboard.jpg) | ![Nutrition details](screenshots/nutrition.jpg) | ![Trends](screenshots/trends.jpg) | ![Calendar](screenshots/calendar.jpg) |
 
 ### Download
 
