@@ -24,7 +24,7 @@ Simplicity est un **instrument de bord** pour les pratiquants avancés qui mesur
 
 - 🔒 **100 % local-first** : vos données vivent dans une base SQLite sur votre téléphone. Aucun cloud tiers, aucun serveur distant.
 - 🚫 **Zéro publicité, zéro cookie de traçage, aucun compte requis.** Pas d'outil de mesure d'audience ni de télémétrie.
-- 🌊 **Système fluide** : pas d'objectif calorique, de « budget » restant, de score ni de couleur d'alerte. Un suivi factuel :
+- 🌊 **Système fluide** : Conçu pour fournir un suivi factuel, pas d'émotions, que des données :
   - **Volume glissant** par groupe musculaire, sur 7 à 13 jours, comparé à vos propres repères ;
   - **Donut des macros** (protéines, glucides, lipides, fibres), calories calculées à partir des macros ;
   - **Pas**, sur 7, 30, 90 ou 365 jours ;
@@ -111,7 +111,7 @@ Simplicity is a **dashboard instrument** for advanced trainees who already measu
 
 - 🔒 **100% local-first**: your data lives in a SQLite database on your phone. No third-party cloud, no remote server.
 - 🚫 **No ads, no tracking cookies, no account required.** No analytics, no telemetry.
-- 🌊 **Fluid system**: no calorie target, no remaining "budget", no score, no warning colours. Factual tracking only:
+- 🌊 **Seamless Tracking**: no calorie target, no remaining "budget", no score, no warning colours. Factual tracking only:
   - **Rolling volume** per muscle group over 7 to 13 days, compared with your own reference points;
   - **Macro donut** (protein, carbs, fat, fiber), with calories computed from macros;
   - **Steps** over 7, 30, 90 or 365 days;
@@ -173,7 +173,7 @@ Title: `[Idea] One-sentence summary`
 
 ```markdown
 **Kind of suggestion**
-New muscle group / new metric / usability feedback / other
+New metric / usability feedback / other
 
 **Description**
 What you would like to see, and on which screen.
