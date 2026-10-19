@@ -128,9 +128,9 @@ Simplicity is a **dashboard instrument** for advanced trainees who already measu
 
 ### Screenshots
 
-|                Dashboard                |                Nutrition details                |              Trends               |               Calendar                |
-| :-------------------------------------: | :---------------------------------------------: | :-------------------------------: | :-----------------------------------: |
-| ![Dashboard](screenshots/dashboard.jpg) | ![Nutrition details](screenshots/nutrition.jpg) | ![Trends](screenshots/trends.jpg) | ![Calendar](screenshots/calendar.jpg) |
+|                 Dashboard                  |                 Nutrition details                  |                Trends                |                 Calendar                 |
+| :----------------------------------------: | :------------------------------------------------: | :----------------------------------: | :--------------------------------------: |
+| ![Dashboard](screenshots/dashboard_en.jpg) | ![Nutrition details](screenshots/nutrition_en.jpg) | ![Trends](screenshots/trends_en.jpg) | ![Calendar](screenshots/calendar_en.jpg) |
 
 ### Download
 
